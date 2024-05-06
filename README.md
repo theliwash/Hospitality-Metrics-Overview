@@ -30,8 +30,11 @@ The 360 hotel chain, a prominent five-star hotel chain in India, has been experi
 
 ### Model View
 
-Below is a snapshot of the model view of this entire dashboard.
+Below is a snapshot of the model view of the dashboard.
 ![Screenshot (22)](https://github.com/theliwash/Hospitality-Metrics-Overview/assets/163035610/61b20acb-c441-4235-93cc-98b16c5129c4)
+
+### Dashboard Snapshot
+![Screenshot (23)](https://github.com/theliwash/Hospitality-Metrics-Overview/assets/163035610/dea7998b-0458-40ac-abc5-5dc689d9ec58)
 
 ### Learnings
 1. Key business metrics in the hotel industry, such as RevPAR, occupancy %, ADR, and realization%
