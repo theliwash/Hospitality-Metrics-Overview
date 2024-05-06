@@ -31,6 +31,8 @@ CSV files
 - Occupancy %
 - Cancellation %
 
+(![Screenshot (22)](https://github.com/theliwash/Hospitality-Metrics-Overview/assets/163035610/61b20acb-c441-4235-93cc-98b16c5129c4)
+
 ### Learnings
 1. Key business metrics in the hotel industry, such as RevPAR, occupancy %, ADR, and realization%
 2. Understanding of hospitality terminology like DSRN, DBRN, and DURN
