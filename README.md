@@ -10,9 +10,6 @@ The 360 hotel chain, a prominent five-star hotel chain in India, has been experi
 - MS Excel
 - DAX
 
-### Datasets
-CSV files
-
 ### Dashboard Insights
 - **Mumbai** tops the revenue contribution throughout all months.
 - **360 Palace & 360 Exotica** are the highest revenue-contributing hotels.
@@ -31,7 +28,10 @@ CSV files
 - Occupancy %
 - Cancellation %
 
-(![Screenshot (22)](https://github.com/theliwash/Hospitality-Metrics-Overview/assets/163035610/61b20acb-c441-4235-93cc-98b16c5129c4)
+### Model View
+
+Below is a snapshot of the model view of this entire dashboard.
+![Screenshot (22)](https://github.com/theliwash/Hospitality-Metrics-Overview/assets/163035610/61b20acb-c441-4235-93cc-98b16c5129c4)
 
 ### Learnings
 1. Key business metrics in the hotel industry, such as RevPAR, occupancy %, ADR, and realization%
@@ -39,3 +39,6 @@ CSV files
 3. Establishing relationships between different datasets
 4. Creating measures and KPIs for granular revenue analysis across different segments
 5. Implemented user-friendly features like a one-click filter-clearing button and dynamic data exploration through slicers.
+
+### Datasets 
+The required datasets can be found in the "datasets" folder. All the required materials have been taken from the [codebasics.io website.](https://codebasics.io/) website.
