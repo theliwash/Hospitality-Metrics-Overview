@@ -48,4 +48,4 @@ Below is a snapshot of the model view of the dashboard.
 ### Datasets 
 The required datasets can be found in the "datasets" folder. All the required materials have been taken from the [codebasics.io website.](https://codebasics.io/) website.
 
-Please feel free to fork or download the resources from this repo and create your own visualizations.
+Please feel free to fork or download the resources from this repository and create your own visualizations.
