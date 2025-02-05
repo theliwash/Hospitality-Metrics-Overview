@@ -1,4 +1,4 @@
-# Hospitality-Metrics-Overview
+# Hospitality-Metrics-Overview of a Prominent Hotel Chain
 
 ![Alt text](https://smartstore.com/media/1959/content/1959.jpg?size=1024)
 
